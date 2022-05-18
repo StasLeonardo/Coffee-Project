@@ -1,0 +1,163 @@
+body{
+	font-family: Comic Sans MS,Comic Sans cursive;
+}
+.title_name{
+	background-color: green;
+	height: 50px;
+}
+.znyzhka{
+	background-color: darkgreen;
+	height: 50px;
+	width: 30%;
+	position: absolute;
+	margin-left: 800px;
+	text-align: center;
+	font-size: 24px;
+	color: white;	
+}
+ul{
+	list-style-type: none ;
+	text-align: center;
+}
+li{
+	display: inline-block;
+	padding: 2%;
+}
+a{
+ 	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+.baner{
+height: 550px;
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black
+	margin-left:300px;
+
+}h1,h2,h3,h6{
+	color: white;
+}
+.baner > h1,h3,button{
+	margin-left: 60%;
+}
+.baner > h3 {
+	padding-top: 15%;
+}
+button{
+	color: white;
+	background-color: black;
+	border: 2px solid white;
+	padding: 2px;
+	font-size: 20px;
+	border-radius: 7px;
+}
+.zaklyk{
+	background-image: url(https://storge.pic2.me/c/1360x800/267/52c1edb5c6bfd.jpg);
+	height: 200px;
+	position: relative;
+}
+
+img{
+	float: left;
+}
+.rusunok2{
+	width: 20%;
+	height:150px;
+	top: 50px;
+}
+.block9{
+	z-index: 3;
+	position: absolute;
+	background-color: black;
+	height: 20px;
+	width: 190px;
+	text-align: center;
+	float: left;
+	margin-left: 280px;
+	margin-top: 100px;
+	color: white;
+	border: solid;
+	border-radius: 6px;
+	border-color:white;
+}
+.block10{
+	z-index: 2;
+	position: absolute;
+	background-color: black;
+	height: 20px;
+	width: 190px;
+	text-align: center;
+	float: left;
+	margin-left: 480px;
+	margin-top: 100px;
+	color: white;
+	border: solid;
+	border-radius: 6px;
+	border-color:white;
+}
+.block11{
+	position: absolute;
+	z-index: 2;
+	height: 200px;
+	width: 450px;
+	float: left;
+	margin-left: 285px;
+	margin-top: 10px;
+
+}
+.b7{
+	color: white;
+	font-size: 25px;
+}
+.block12{
+	height: 250px;
+	width: 336px;
+	background-color: black;
+	justify-content: start;
+	right: 600px;
+}
+.rusunok3{
+	height: 250px;
+	width: 334px;
+}
+.b8{
+	color: white;
+	font-size: 20px;
+}
+.flexbox{
+	display: flex;
+}
+.box{
+	width: 100%;
+	height: 150px;
+}
+.flexbox1{
+	display: flex;
+}
+ul{
+	list-style-type: none ;
+	text-align: center;
+	
+}
+li{
+	display: inline-block;
+	padding: 2%;
+
+}
+a{
+ 	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
